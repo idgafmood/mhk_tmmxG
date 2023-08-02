@@ -1,6 +1,6 @@
 //tmmxG.as//
 {
-  "version":"3",
+  "version":"4",
   "source":"https://github.com/idgafmood/mhk_tmmxG/releases/download/%2B/tmmxG_ahk.zip",
   "compiled":"https://github.com/idgafmood/mhk_tmmxG/releases/download/%2B/tmmxG_exe.zip",
   "passwords": [
