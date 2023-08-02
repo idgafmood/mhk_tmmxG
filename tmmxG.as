@@ -1,4 +1,4 @@
-//packageName.as//
+//tmmxG.as//
 {
   "version":"1",
   "source":"link",
